@@ -11,5 +11,7 @@
             "program": "${file}",
             "console": "integratedTerminal"
         }
-    ]
+    ],
+    "python.linting.flake8Enabled": true,
+    "python.formatting.provider": "yapf"
 }
